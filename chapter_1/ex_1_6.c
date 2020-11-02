@@ -1,11 +1,7 @@
 #include <stdio.h>
 int main(){
     int c;
-    if((getchar() != EOF) == 1 || (getchar() != EOF) == 0){
-        printf("True\n");
-    }
-    else{
-        printf("false\n");
-    }
+    printf("Press on any key and press enter. \n");
+    printf("%d \n",getchar() != EOF); // This would output 1. If the user presses Ctrl + D (EOF), the output would be 0.
     return 0;
 }
