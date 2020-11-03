@@ -1,14 +1,8 @@
 #include <stdio.h>
+// Write a program to print the value of EOF
+
 int main(){
     int c;
-    if((getchar() != EOF) == 1){
-        printf("Value is 1\n");
-    }
-    else if((getchar() != EOF) == 0){
-        printf("Value is 0\n");
-    }
-    else{
-        printf("false\n");
-    }
+    printf("Value of EOF is %d: \n", EOF); // This prints -1 (not 0)!!
     return 0;
 }
