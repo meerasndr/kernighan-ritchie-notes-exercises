@@ -1,5 +1,8 @@
-chapter_1/ex_1_3
-chapter_1/ex_1_4
-chapter_1/ex_1_5
-chapter_1/ex_1_6
-chapter_1/ex_1_7
+*.lst
+*.o
+*.eep
+*.lss
+*.map
+*.sym
+*.exec
+*.exe
