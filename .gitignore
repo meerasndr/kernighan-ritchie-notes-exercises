@@ -1,10 +1,2 @@
-/chapter_1/*.exe
-/chapter_1/*.exec
-*.lst
-*.o
-*.eep
-*.lss
-*.map
-*.sym
-*.exec
-*.exe
+/chapter_1/ex_1_1
+/chapter_1/ex_1_2
