@@ -18,4 +18,6 @@ chapter_5/sizeof
 chapter_5/funcprototype
 chapter_5/nullptr
 chapter_5/incrementptr
+chapter_5/simplarr
+chapter_5/multidarr
 .DS_Store
