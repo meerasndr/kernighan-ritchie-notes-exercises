@@ -20,4 +20,6 @@ chapter_5/nullptr
 chapter_5/incrementptr
 chapter_5/simplarr
 chapter_5/multidarr
+chapter_5/arrparams
+chapter_5/arrptr
 .DS_Store
