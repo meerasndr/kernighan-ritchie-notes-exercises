@@ -24,7 +24,11 @@ chapter_5/arrparams
 chapter_5/arrptr
 chapter_5/strlen
 chapter_5/pointerarith
+chapter_5/strcpy
+chapter_5/strcat
+struct1
 villanova-pointers/p1
+villanova-pointers/p2
 /strings1
 /strings2
 .DS_Store
